@@ -20,6 +20,7 @@ This is a collection of random advice collected over the course of my infrastruc
 * Do not merge wrong code. Is something not right? Gut feeling tells you it's wrong? Do not merge that pull request, even if the submitter will need to rewrite the whole thing. Do it until the bad feeling is gone, even if the code must be rewritten 6 times.
 * Don't be greedy with your knowledge, if you have the opportunity to share or teach - do.
 * Your worth on the team is not decided by your knowledge. First level support can be just as important as architecting a platform, every action taken for the team is a burden off someone else' shoulders.
+* Avoid use of in-jokes and word-play in documentation and naming: memory of what they mean tends to fade, at which point the communication value becomes wortheless.
 
 ## Coding craftsmanship
 
