@@ -4,5 +4,6 @@ This is a collection of random advice collected over the course of my infrastruc
 
 * [How Mateusz does peer reviews](peer_reviews.md)
 * [Team hints](team_hints.md)
+* [How many times to ask why](why.md)
 
 ![This is fine cognac and cigar](logo.png)
