@@ -1,4 +1,4 @@
-# How Mateusz does peer reviews
+# Peer reviews
 
 This article captures the things I consider (even if not always apply) during a peer review. Peer reviews can be daunting, horrifying and personal experiences, and this will hopefully give you some reference points, and perhaps even show off some useful practices you can apply in your work.
 
